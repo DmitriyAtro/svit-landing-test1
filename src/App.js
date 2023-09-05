@@ -1,11 +1,11 @@
-import Hero from './Components/Hero';
-import Features from './Components/Features';
-import Integrations from './Components/Integrations';
-import Application from './Components/Application';
-import Hardware from './Components/Hardware';
-import Automations from './Components/Automations';
-import CTA from './Components/CTA';
-import Footer from './Components/Footer';
+import Hero from './components/Hero/Hero';
+import Features from './components/Features/Features';
+import Integrations from './components/Integrations/Integrations';
+import Application from './components/Application/Application';
+import Hardware from './components/Hardware/Hardware';
+import Automations from './components/Automations/Automations';
+import CTA from './components/CTA/CTA';
+import Footer from './components/Footer/Footer';
 
 function App() {
   return (

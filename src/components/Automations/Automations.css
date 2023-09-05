@@ -1,0 +1,12 @@
+.btnOne {
+    background-image: url(../Img/morning.png);
+    height: 810px;
+    background-repeat: no-repeat;
+}
+
+.btnTwo {
+    background-image: url(../Img/day.png);
+}
+.btnThree{
+    background-image: url(../Img/night.png);
+}

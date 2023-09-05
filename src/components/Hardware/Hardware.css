@@ -1,0 +1,24 @@
+.hardware-card1 {
+    background-image: url(../Img/hardware1.png);
+    height: 900px;
+    background-position: left 10% bottom 50%;
+    background-repeat: no-repeat;
+}
+.hardware-card2 {
+    background-image: url(../Img/hardware2.png);
+    height: 900px;
+    background-position: left 10% bottom 50%;
+    background-repeat: no-repeat;
+}
+.hardware-card3 {
+    background-image: url(../Img/hardware3.png);
+    height: 900px;
+    background-position: left 10% bottom 50%;
+    background-repeat: no-repeat;
+}
+.hardware-text-container{
+    position: relative;
+        top: 50%;
+        left: 50%
+    
+}
